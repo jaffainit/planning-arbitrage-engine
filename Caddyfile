@@ -1,0 +1,4 @@
+statutoryintel.co.uk, www.statutoryintel.co.uk, 169.58.25.188.sslip.io {
+    bind 169.58.25.188
+    reverse_proxy 127.0.0.1:8000
+}
