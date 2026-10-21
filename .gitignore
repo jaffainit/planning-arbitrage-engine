@@ -5,3 +5,14 @@ data/
 .venv/
 venv/
 .DS_Store
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+.venv/
+venv/
+*.pem
+*.key
